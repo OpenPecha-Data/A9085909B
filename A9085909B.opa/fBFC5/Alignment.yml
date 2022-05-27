@@ -1,0 +1,19 @@
+segment_sources:
+  I85863093:
+    type: origin_type
+    relation: translation
+    language: bo
+  I0A3A833F:
+    type: origin_type
+    relation: translation
+    language: en
+segment_pairs:
+  6df37187c79947548cc1b819365b72cd:
+    I85863093: 686845dd12e5416b8aa0a1a19e5f8ce0
+    I0A3A833F: ba74e826c220457cad0d8428050895d8
+  ac4135a03913401980eb367c70e4b9ea:
+    I85863093: 01747a90645f49b18b7602ad250a7acf
+    I0A3A833F: 3e23d1d828d94b1c941fb1db8e3d8e7c
+  447a783e16c94b039a08eb39a096e843:
+    I85863093: d98283ae663b47de8cb645e322df409e
+    I0A3A833F: 90ecbb1279334d4994214dbdee331d5c

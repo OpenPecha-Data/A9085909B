@@ -1,0 +1,16 @@
+segment_sources:
+  I85863093:
+    type: origin_type
+    relation: translation
+    language: bo
+  I0A3A833F:
+    type: origin_type
+    relation: translation
+    language: en
+segment_pairs:
+  1e2c274274a244b8aba8b94a75c53c3d:
+    I85863093: 1d5a9ffa8fe74ab3942dbc3cf28b39d2
+    I0A3A833F: 83822019c1414abeaa55c116bb219fd5
+  609f5f9a90bb43fc80a9d7b2f6d45fae:
+    I85863093: 6898501279844b1d849d3f32db5fbc09
+    I0A3A833F: abad1620ec3540e9b7a295a6bdbedf24
